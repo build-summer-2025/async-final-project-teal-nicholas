@@ -1,13 +1,14 @@
 ## Repository name
-Your repostiory should be named something like `async-final-project-color-name`
-Example: `async-final-project-teal-Anas`
+`async-final-project-teal-nicholas`
 
 ## Dataset
-[Dataset Name](https://www.kaggle.com/datasets/uciml/breast-cancer-wisconsin-data)
+[Breast Cancer Wisconsin Data](https://www.kaggle.com/datasets/uciml/breast-cancer-wisconsin-data)
 
 ## Why did I chose this dataset?
 
 This semester at Berkeley City College I’m taking biotech classes, which got me thinking about health issues that have existed for a long time and that biotechnology is currently attempting to alleviate. I figured that since we learned about data science and machine learning, we can apply those as well to see how they can complement existing and developing treatments that are more medicine/biology-focused.
+
+My project involves analyzing the data set to find trends, then using the data to train a machine learning model (scikit-learn's RandomForestClassifier) to predict tumor cell malignant status given its measurements. The questions only cover the trend analysis, so for the ML model training and testing you will need to read the jupyter notebook. I included with it a lot of other visuals and commentary to illustrate what I was doing with the model.
 
 ## Progress
 - [x] Picked dataset
